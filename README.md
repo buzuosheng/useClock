@@ -28,4 +28,4 @@ npm i
 npm run dev
 ```
 
-在localhost中查看效果
+在localhost:3000中查看效果
